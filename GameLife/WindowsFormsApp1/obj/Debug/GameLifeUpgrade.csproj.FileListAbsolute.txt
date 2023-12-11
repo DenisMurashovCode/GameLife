@@ -1,0 +1,64 @@
+D:\GameLife\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\GameLife\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\GameLife\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\GameLife\WindowsFormsApp1\obj\Debug\GameLifeUpgrade.csproj.AssemblyReference.cache
+D:\GameLife\WindowsFormsApp1\obj\Debug\GameLifeUpgrade.csproj.SuggestedBindingRedirects.cache
+D:\GameLife\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\GameLife\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\GameLife\WindowsFormsApp1\obj\Debug\GameLifeUpgrade.csproj.GenerateResource.cache
+D:\GameLife\WindowsFormsApp1\obj\Debug\GameLifeUpgrade.csproj.CoreCompileInputs.cache
+D:\GameLife\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\GameLife\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\denis\Downloads\GameLife_2\GameLife\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\denis\Downloads\GameLife_2\GameLife\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\denis\Downloads\GameLife_2\GameLife\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\denis\Downloads\GameLife_2\GameLife\WindowsFormsApp1\obj\Debug\GameLifeUpgrade.csproj.AssemblyReference.cache
+C:\Users\denis\Downloads\GameLife_2\GameLife\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\denis\Downloads\GameLife_2\GameLife\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\denis\Downloads\GameLife_2\GameLife\WindowsFormsApp1\obj\Debug\GameLifeUpgrade.csproj.GenerateResource.cache
+C:\Users\denis\Downloads\GameLife_2\GameLife\WindowsFormsApp1\obj\Debug\GameLifeUpgrade.csproj.CoreCompileInputs.cache
+C:\Users\denis\Downloads\GameLife_2\GameLife\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\denis\Downloads\GameLife_2\GameLife\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\ООП\GameLife\GameLife\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\ООП\GameLife\GameLife\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\ООП\GameLife\GameLife\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\ООП\GameLife\GameLife\WindowsFormsApp1\obj\Debug\GameLifeUpgrade.csproj.AssemblyReference.cache
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\ООП\GameLife\GameLife\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\ООП\GameLife\GameLife\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\ООП\GameLife\GameLife\WindowsFormsApp1\obj\Debug\GameLifeUpgrade.csproj.GenerateResource.cache
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\ООП\GameLife\GameLife\WindowsFormsApp1\obj\Debug\GameLifeUpgrade.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\ООП\GameLife\GameLife\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\ООП\GameLife\GameLife\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\ООП\GameLife\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\ООП\GameLife\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\ООП\GameLife\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\ООП\GameLife\WindowsFormsApp1\obj\Debug\GameLifeUpgrade.csproj.AssemblyReference.cache
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\ООП\GameLife\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\ООП\GameLife\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\ООП\GameLife\WindowsFormsApp1\obj\Debug\GameLifeUpgrade.csproj.GenerateResource.cache
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\ООП\GameLife\WindowsFormsApp1\obj\Debug\GameLifeUpgrade.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\ООП\GameLife\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\ООП\GameLife\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\ООП\GameLife\WindowsFormsApp1\obj\Debug\GameLifeUpgrade.csproj.SuggestedBindingRedirects.cache
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\3 семестр\ООП\GameLife\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\3 семестр\ООП\GameLife\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\3 семестр\ООП\GameLife\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\3 семестр\ООП\GameLife\WindowsFormsApp1\obj\Debug\GameLifeUpgrade.csproj.AssemblyReference.cache
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\3 семестр\ООП\GameLife\WindowsFormsApp1\obj\Debug\GameLifeUpgrade.csproj.SuggestedBindingRedirects.cache
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\3 семестр\ООП\GameLife\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\3 семестр\ООП\GameLife\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\3 семестр\ООП\GameLife\WindowsFormsApp1\obj\Debug\GameLifeUpgrade.csproj.GenerateResource.cache
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\3 семестр\ООП\GameLife\WindowsFormsApp1\obj\Debug\GameLifeUpgrade.csproj.CoreCompileInputs.cache
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\3 семестр\ООП\GameLife\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\denis\Desktop\ДЗ СибГУТИ\2 курс\3 семестр\ООП\GameLife\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\denis\OneDrive\Рабочий стол\ДЗ СибГУТИ\2 курс\3 семестр\ООП\GameLife\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\denis\OneDrive\Рабочий стол\ДЗ СибГУТИ\2 курс\3 семестр\ООП\GameLife\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\denis\OneDrive\Рабочий стол\ДЗ СибГУТИ\2 курс\3 семестр\ООП\GameLife\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\denis\OneDrive\Рабочий стол\ДЗ СибГУТИ\2 курс\3 семестр\ООП\GameLife\WindowsFormsApp1\obj\Debug\GameLifeUpgrade.csproj.AssemblyReference.cache
+C:\Users\denis\OneDrive\Рабочий стол\ДЗ СибГУТИ\2 курс\3 семестр\ООП\GameLife\WindowsFormsApp1\obj\Debug\GameLifeUpgrade.csproj.SuggestedBindingRedirects.cache
+C:\Users\denis\OneDrive\Рабочий стол\ДЗ СибГУТИ\2 курс\3 семестр\ООП\GameLife\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\denis\OneDrive\Рабочий стол\ДЗ СибГУТИ\2 курс\3 семестр\ООП\GameLife\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\denis\OneDrive\Рабочий стол\ДЗ СибГУТИ\2 курс\3 семестр\ООП\GameLife\WindowsFormsApp1\obj\Debug\GameLifeUpgrade.csproj.GenerateResource.cache
+C:\Users\denis\OneDrive\Рабочий стол\ДЗ СибГУТИ\2 курс\3 семестр\ООП\GameLife\WindowsFormsApp1\obj\Debug\GameLifeUpgrade.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\Рабочий стол\ДЗ СибГУТИ\2 курс\3 семестр\ООП\GameLife\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\denis\OneDrive\Рабочий стол\ДЗ СибГУТИ\2 курс\3 семестр\ООП\GameLife\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
